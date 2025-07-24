@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm an enthusiastic and fast-learning Computer Science (AI
 ## 🛠️ Skills
 
 **Languages:** Python, C, HTML  
-**ML Frameworks:** PyTorch  
+**ML Frameworks:** Scikit Learn 
 **Tools:** OpenCV, CARLA Simulator, Power BI, Tableau, SQL, Jupyter, Google Colab  
 **Other:** Object Detection (YOLOv7/v8), Data Analysis, Visualization
 
